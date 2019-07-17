@@ -1,5 +1,3 @@
-# 李傲龍的个人博客
-
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
 - [7.16——NLP相关了解](https://github.com/li-aolong/li-aolong.github.io/issues/5)
