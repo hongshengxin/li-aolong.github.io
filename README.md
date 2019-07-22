@@ -1,5 +1,6 @@
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
+- [7.19——文献阅读《The CoNLL-2014 Shared Task on Grammatical Error Correction》](https://github.com/li-aolong/li-aolong.github.io/issues/8)
 - [7.18——NLP相关了解（三）](https://github.com/li-aolong/li-aolong.github.io/issues/7)
 - [7.17——NLP相关了解（二）](https://github.com/li-aolong/li-aolong.github.io/issues/6)
 - [7.16——NLP相关了解](https://github.com/li-aolong/li-aolong.github.io/issues/5)
