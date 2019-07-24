@@ -1,5 +1,6 @@
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
+- [7.24——文献阅读《Chinese Spelling Check Evaluation at SIGHAN Bake-off 2013》](https://github.com/li-aolong/li-aolong.github.io/issues/11)
 - [7.23——文献阅读《Alibaba at IJCNLP-2017 Task 1:Embedding Grammatical Features into LSTMs for Chinese Grammatical Error Diagnosis Task》](https://github.com/li-aolong/li-aolong.github.io/issues/10)
 - [7.22——文献阅读《Language Model Based Grammatical Error Correction without Annotated Training Data》](https://github.com/li-aolong/li-aolong.github.io/issues/9)
 - [7.19——文献阅读《The CoNLL-2014 Shared Task on Grammatical Error Correction》](https://github.com/li-aolong/li-aolong.github.io/issues/8)
