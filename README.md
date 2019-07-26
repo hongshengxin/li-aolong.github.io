@@ -1,5 +1,6 @@
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
+- [7.26——开源项目pycorrector分析](https://github.com/li-aolong/li-aolong.github.io/issues/13)
 - [7.25——中文文本纠错开源项目整理](https://github.com/li-aolong/li-aolong.github.io/issues/12)
 - [7.24——文献阅读《Chinese Spelling Check Evaluation at SIGHAN Bake-off 2013》](https://github.com/li-aolong/li-aolong.github.io/issues/11)
 - [7.23——文献阅读《Alibaba at IJCNLP-2017 Task 1:Embedding Grammatical Features into LSTMs for Chinese Grammatical Error Diagnosis Task》](https://github.com/li-aolong/li-aolong.github.io/issues/10)
