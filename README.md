@@ -1,5 +1,6 @@
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
+- [7.31——开源项目Cn_Speck_Checker分析](https://github.com/li-aolong/li-aolong.github.io/issues/15)
 - [7.30——开源项目pycorrector分析（二）](https://github.com/li-aolong/li-aolong.github.io/issues/14)
 - [7.26——开源项目pycorrector分析](https://github.com/li-aolong/li-aolong.github.io/issues/13)
 - [7.25——中文文本纠错开源项目整理](https://github.com/li-aolong/li-aolong.github.io/issues/12)
