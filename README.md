@@ -1,5 +1,6 @@
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
+- [8.2——NLP相关了解（四）](https://github.com/li-aolong/li-aolong.github.io/issues/17)
 - [8.1——中文文本纠错相关](https://github.com/li-aolong/li-aolong.github.io/issues/16)
 - [7.31——开源项目Cn_Speck_Checker分析](https://github.com/li-aolong/li-aolong.github.io/issues/15)
 - [7.30——开源项目pycorrector分析（二）](https://github.com/li-aolong/li-aolong.github.io/issues/14)
