@@ -1,5 +1,6 @@
 ## [文章列表](https://github.com/li-aolong/li-aolong.github.io/issues)
 
+- [8.6——使用m2scorer进行测试模型](https://github.com/li-aolong/li-aolong.github.io/issues/19)
 - [8.5——中文纠错数据集与训练](https://github.com/li-aolong/li-aolong.github.io/issues/18)
 - [8.2——NLP相关了解（四）](https://github.com/li-aolong/li-aolong.github.io/issues/17)
 - [8.1——中文文本纠错相关](https://github.com/li-aolong/li-aolong.github.io/issues/16)
