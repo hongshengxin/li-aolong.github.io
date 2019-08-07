@@ -1,3 +1,5 @@
+> 关于本博客：整理学习笔记，心得，想法，等……
+
 # 文章分类
 
 ## 技术
@@ -17,7 +19,7 @@
 
 - [之江实验室](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E9%A1%B9%E7%9B%AE/%E4%B9%8B%E6%B1%9F%E5%AE%9E%E9%AA%8C%E5%AE%A4/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93)
 
-## 其它
+## 休闲
 
-- [其它](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E5%85%B6%E5%AE%83/%E6%97%85%E8%A1%8C%E8%AE%B0%E5%BD%95)
+- 游记
 
