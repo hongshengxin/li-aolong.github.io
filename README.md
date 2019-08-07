@@ -21,5 +21,5 @@
 
 ## 休闲
 
-- 游记
+- [游记](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E4%BC%91%E9%97%B2/%E6%B8%B8%E8%AE%B0)
 
