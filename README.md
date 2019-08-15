@@ -19,7 +19,7 @@
 
 - [之江实验室](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E9%A1%B9%E7%9B%AE/%E4%B9%8B%E6%B1%9F%E5%AE%9E%E9%AA%8C%E5%AE%A4/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93)
 
-## 休闲
+## 其它
 
 - [游记](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E4%BC%91%E9%97%B2/%E6%B8%B8%E8%AE%B0)
 
