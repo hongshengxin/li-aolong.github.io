@@ -17,7 +17,7 @@
 
 ## 项目
 
-- [之江实验室](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E9%A1%B9%E7%9B%AE/%E4%B9%8B%E6%B1%9F%E5%AE%9E%E9%AA%8C%E5%AE%A4/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93)
+- [ZJL](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E9%A1%B9%E7%9B%AE/ZJL/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93)
 
 ## 其它
 
