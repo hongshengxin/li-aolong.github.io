@@ -19,7 +19,4 @@
 
 - [ZJL](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E9%A1%B9%E7%9B%AE/ZJL/%E6%AF%8F%E6%97%A5%E6%80%BB%E7%BB%93)
 
-## 其它
-
-- [游记](https://github.com/li-aolong/li-aolong.github.io/tree/master/%E4%BC%91%E9%97%B2/%E6%B8%B8%E8%AE%B0)
 
