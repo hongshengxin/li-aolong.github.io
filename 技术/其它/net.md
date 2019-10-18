@@ -1,2 +1,0 @@
-- cloudflare账号：
-  - li-aolong@qq.com
